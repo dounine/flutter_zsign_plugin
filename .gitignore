@@ -13,7 +13,7 @@
 migrate_working_dir/
 **/.idea/
 **/*.a
-rust/target/
+**/target
 # IntelliJ related
 *.iml
 *.ipr
